@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="598db5f0-6705-40ff-bdc6-b7139d9faa6c" name="aurora" url="http://seotmdev.ftp.tools">
+        <fileTransfer host="seotmdev.ftp.tools" port="21" rootFolder="/seocms.com.ua/aurora" password="df9edfc1dfefdfe4dffcdf92df99df9fdfc6dfe4dfcddfc4" username="seotmdev_aurora">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
